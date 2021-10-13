@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="xms.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title12469">XMS</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="296mm"
+     inkscape:zoom="0.13875743"
+     inkscape:cx="-587.35594"
+     inkscape:cy="39.637517"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12347" />
+  <defs
+     id="defs2">
+    <symbol
+       id="LeftArrow_Inv">
+      <title
+         id="title7319">Left Arrow</title>
+      <rect
+         x="0.13229166"
+         y="0.13229166"
+         width="18.785418"
+         height="18.785418"
+         ry="1.5875"
+         style="stroke:#ffffff;stroke-width:0.264583"
+         id="rect7321" />
+      <path
+         d="M 2.38125,9.525 8.2020833,3.7041667 H 12.170833 L 7.9375,7.9375 h 8.466667 v 3.175 H 7.9375 l 4.233333,4.233333 H 8.2020833 Z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         id="path7323" />
+    </symbol>
+    <symbol
+       id="RightArrow_Inv">
+      <title
+         id="title7271">Right Arrow</title>
+      <rect
+         x="0.13229166"
+         y="0.13229166"
+         width="18.785418"
+         height="18.785418"
+         ry="1.5875"
+         style="stroke:#ffffff;stroke-width:0.264583"
+         id="rect7273" />
+      <path
+         d="m 16.66875,9.525 -5.820833,5.820833 H 6.8791667 L 11.1125,11.1125 H 2.6458333 V 7.9375 H 11.1125 L 6.8791667,3.7041667 h 3.9687503 z"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+         id="path7275" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12347"
+       inkscape:export-filename="C:\Users\PABLO ESCOBER\XIMERIX.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g24899"
+         inkscape:export-filename="C:\Users\PABLO ESCOBER\Desktop\xms.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           id="g12334"
+           transform="matrix(0.9736173,0,0,0.9736173,0.40823179,9.4994845)">
+          <g
+             id="g12322">
+            <g
+               id="g12311">
+              <g
+                 id="g12301">
+                <g
+                   id="g12154">
+                  <rect
+                     style="fill:#000033;fill-opacity:1;stroke-width:0.791273;paint-order:stroke markers fill"
+                     id="rect9758"
+                     width="395.29791"
+                     height="356.12424"
+                     x="-50.508575"
+                     y="-12.288562" />
+                  <rect
+                     style="fill:#cccccc;fill-opacity:1;stroke-width:0.439342;paint-order:stroke markers fill"
+                     id="rect9758-2"
+                     width="165.71921"
+                     height="261.88193"
+                     x="-17.284069"
+                     y="11.622653" />
+                  <rect
+                     style="fill:#404040;fill-opacity:1;stroke-width:0.442712;paint-order:stroke markers fill"
+                     id="rect9758-3"
+                     width="164.59848"
+                     height="267.72421"
+                     x="146.57089"
+                     y="7.3232303" />
+                  <path
+                     id="path10142-2-5"
+                     style="fill:#ffffff;stroke-width:0.195803;paint-order:stroke markers fill"
+                     inkscape:transform-center-x="-2.0753902"
+                     inkscape:transform-center-y="0.14596549"
+                     d="m 213.13715,238.62841 -66.08135,-88.89965 55.13437,-107.887504 76.5635,6.44513 -73.38363,97.560554 81.68907,88.28192 z"
+                     sodipodi:nodetypes="ccccccc" />
+                  <path
+                     id="path10142-2-5-9"
+                     style="fill:#000000;stroke-width:0.195803;paint-order:stroke markers fill"
+                     inkscape:transform-center-x="2.0753902"
+                     inkscape:transform-center-y="0.14596549"
+                     d="M 80.927329,240.58786 147.00852,151.68817 91.874249,43.80045 15.311181,50.24558 88.694397,147.80633 7.0057941,236.08831 Z"
+                     sodipodi:nodetypes="ccccccc" />
+                  <rect
+                     style="fill:#000000;fill-opacity:1;stroke-width:0.216777;paint-order:stroke markers fill"
+                     id="rect10714"
+                     width="304.16357"
+                     height="40.920765"
+                     x="7.005794"
+                     y="234.12669" />
+                  <rect
+                     style="fill:#ffffff;fill-opacity:1;stroke-width:0.240685;paint-order:stroke markers fill"
+                     id="rect10760"
+                     width="294.707"
+                     height="40.921001"
+                     x="-15.953304"
+                     y="7.3653841" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:54.0167px;line-height:1.25;font-family:sans-serif;stroke-width:0.281337"
+           x="-5.5956616"
+           y="347.5845"
+           id="text9533"
+           transform="scale(1.0633202,0.94045048)"><tspan
+             sodipodi:role="line"
+             id="tspan9531"
+             style="font-size:54.0167px;fill:#00ff00;stroke-width:0.281337"
+             x="-5.5956616"
+             y="347.5845">-XIMERIX-</tspan></text>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata12467">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>XMS</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
